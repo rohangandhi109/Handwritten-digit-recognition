@@ -6,9 +6,7 @@ File Structure:
 	\README.txt
 	\Report
 	\Extra_credit
-		\train.py
-		\test.py
-		
+
 The project folder contains two sets of python files. One for easy data set and
 other for the hard data set. The poject folder also contains the pre-trained model
 that is required for the test file to run.
